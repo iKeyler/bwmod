@@ -38,3 +38,9 @@
 ![image psd (1)](https://user-images.githubusercontent.com/119964453/217025860-a2b60289-44f2-4b3b-9ac3-50a2726a0be6.png)
 
 Отправляет авто-сообщения быстрее, чем другие моды (зависит от мощности компьютера)
+
+### Конфиг
+![image](https://user-images.githubusercontent.com/119964453/217528589-2c3149f8-8535-4fb1-99f5-7c6d3f82585d.png)
+![image](https://user-images.githubusercontent.com/119964453/217528593-9fb101ab-cfb3-4aec-8ea9-e30fea692c1c.png)
+
+Быстрое изменение настроек мода. **Настройки -> Mod Options -> BWMod -> Config**
