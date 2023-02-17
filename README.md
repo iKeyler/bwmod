@@ -11,7 +11,8 @@
 
 ### Трекер
 ![image](https://user-images.githubusercontent.com/119964453/216984555-788cd394-0a0e-4443-90e4-36d23318178f.png)
-![image](https://user-images.githubusercontent.com/119964453/217018898-56cf1784-ea6e-42e3-9012-fbdddf6a44e0.png)
+![image](https://user-images.githubusercontent.com/119964453/219701687-726191f2-5318-4d48-85b7-9133a8c9576a.png)
+
 
 
 Отслеживайте дистанцию указанного игрока.  
@@ -22,13 +23,15 @@
 
 ### Команда `.findplayer`
 ![image](https://user-images.githubusercontent.com/119964453/217014264-3063f94e-e4c1-4d89-8862-c075e3062b90.png)
-![image](https://user-images.githubusercontent.com/119964453/217019333-be591f10-70b0-4985-b860-5c846d3d77b6.png)
+![image](https://user-images.githubusercontent.com/119964453/219701937-9160286c-ea18-4de2-8dfb-7766d64054cd.png)
+
 
 
 Отображает информацию о игроке: здоровье, предмет в руке, дистанция и координаты
 
 ### Бинды
-![image](https://user-images.githubusercontent.com/119964453/217019010-0c39b03d-10ea-4e1e-b0c8-b2f635eaf6fd.png)
+![image](https://user-images.githubusercontent.com/119964453/219702017-2fd88d85-0571-4e44-b0b9-80936d899cf3.png)
+
 
 Используйте готовые бинды на команды `/leave`, `/rejoin` для быстрого перезахода в игру.
 
@@ -38,7 +41,9 @@
 Отправляет авто-сообщения быстрее, чем другие моды (зависит от мощности компьютера)
 
 ### Конфиг
-![image](https://user-images.githubusercontent.com/119964453/217528589-2c3149f8-8535-4fb1-99f5-7c6d3f82585d.png)
-![image](https://user-images.githubusercontent.com/119964453/217528593-9fb101ab-cfb3-4aec-8ea9-e30fea692c1c.png)
+![image](https://user-images.githubusercontent.com/119964453/219702127-58be846f-8a88-4019-ae5a-a9c6294e3be9.png)
+![image](https://user-images.githubusercontent.com/119964453/219702144-3e4edc30-8581-43e0-8ad9-b8cc1e8aba3c.png)
+![image](https://user-images.githubusercontent.com/119964453/219702150-66af990e-0fe5-45e3-82d7-011442211dfe.png)
+
 
 Быстрое изменение настроек мода. **Настройки -> Mod Options -> BWMod -> Config**
